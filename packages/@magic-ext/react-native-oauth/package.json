@@ -1,12 +1,15 @@
 {
-  "name": "@magic-ext/react-native-oauth",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "name": "@camisul/react-native-oauth",
   "version": "2.2.0",
   "description": "Magic SDK OAuth Extension for React Native environments.",
   "author": "Magic <team@magic.link> (https://magic.link/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/magiclabs/magic-js"
+    "url": "https://github.com/Camisul/magic-js"
   },
   "files": [
     "dist"
