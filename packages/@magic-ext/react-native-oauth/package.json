@@ -1,6 +1,6 @@
 {
   "name": "@camisul/react-native-oauth",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Magic SDK OAuth Extension for React Native environments.",
   "author": "Magic <team@magic.link> (https://magic.link/)",
   "license": "MIT",
