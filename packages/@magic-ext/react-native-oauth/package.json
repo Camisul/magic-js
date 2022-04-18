@@ -1,7 +1,4 @@
 {
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "name": "@camisul/react-native-oauth",
   "version": "2.2.0",
   "description": "Magic SDK OAuth Extension for React Native environments.",
